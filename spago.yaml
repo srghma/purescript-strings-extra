@@ -3,7 +3,7 @@ package:
   description: Additional String utilities
   publish:
     license: MIT
-    version: 4.0.0
+    version: 5.0.0
     location:
       githubOwner: purescript-contrib
       githubRepo: purescript-strings-extra
